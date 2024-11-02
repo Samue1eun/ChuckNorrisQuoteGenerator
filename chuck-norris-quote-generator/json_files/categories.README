@@ -1,0 +1,7 @@
+API URL (search using categories) = https://api.chucknorris.io/jokes/random?category={category}
+API URL (random) = https://api.chucknorris.io/jokes/random
+
+These are the categories for the Chuck Norris API:
+
+["animal","career","celebrity","dev","explicit","fashion","food","history","money","movie","music","political","religion","science","sport","travel"]
+
