@@ -5,7 +5,5 @@ import ChuckNorrisApp from './ChuckNorrisApp.jsx'
 import "bootstrap/dist/css/bootstrap.min.css";
 
 createRoot(document.getElementById('root')).render(
-  <StrictMode>
-    <ChuckNorrisApp />
-  </StrictMode>,
+  <ChuckNorrisApp/>
 )
